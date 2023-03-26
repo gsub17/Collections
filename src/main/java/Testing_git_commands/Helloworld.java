@@ -1,6 +1,5 @@
 package Testing_git_commands;
 
 public class Helloworld{
-  // making changes via remote.
-  // making changes2.
+  // new changes via remote, to learn about pull.
 }
